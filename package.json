@@ -1,0 +1,9 @@
+{
+	"name": "INF4375.Semaine04",
+	"description": "A project to show some node.js basics.",
+	"author": "Alexandre Terrasa",
+	"version": "1.0.0",
+	"dependencies": {
+		"xmldom": "~0.1.13"
+	}
+}
